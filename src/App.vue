@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      By Quenan | ©2024
+      By Liamの糖果窝 | ©2024
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
