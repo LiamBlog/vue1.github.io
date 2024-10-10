@@ -16,7 +16,7 @@
     <div class="main" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :duration="1000">
       <div class="info">
         <div class="header">
-          <img src="https://zt.xfka.email/%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F.jpg" alt="">
+          <img src="https://liam.s3.bitiful.net/blog/tx.jpg?no-wait=on" alt="">
         </div>
 
         <div class="infoText">
@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      By Liamの糖果窝 | ©2024
+      By Liamの糖果窝 | Copyright © 2024 | <a href="https://icp.gov.moe/?keyword=20240301" target="_blank">萌ICP备20240301号</a>
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
@@ -102,8 +102,8 @@
             等主页，感谢他们awa
           </p>
           <p>项目已经开源：</p>
-          <p><a href="https://github.com/QNquenan/homepage-for-vue3"
-              target="_blank">https://github.com/QNquenan/homepage-for-vue3</a>
+          <p><a href="https://github.com/LiamBlog/vue1.github.io"
+              target="_blank">https://github.com/LiamBlog/vue1.github.io</a>
           </p>
         </vs-alert>
       </div>
