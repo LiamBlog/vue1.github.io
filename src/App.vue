@@ -16,7 +16,7 @@
     <div class="main" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :duration="1000">
       <div class="info">
         <div class="header">
-          <img src="https://liam.s3.bitiful.net/blog/tx.jpg?no-wait=on" alt="">
+          <img src="https://www.xfka.email/img/tx.jpg" alt="">
         </div>
 
         <div class="infoText">
