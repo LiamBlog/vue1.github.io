@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      By Liamの糖果窝 | Copyright © 2024 | <a href="https://icp.gov.moe/?keyword=20240301" target="_blank">萌ICP备20240301号</a>
+      By Liamの糖果窝 | Copyright © 2025 | <a href="https://icp.gov.moe/?keyword=20240301" target="_blank">萌ICP备20240301号</a>
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
