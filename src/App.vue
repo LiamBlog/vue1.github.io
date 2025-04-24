@@ -16,7 +16,7 @@
     <div class="main" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :duration="1000">
       <div class="info">
         <div class="header">
-          <img src="https://www.xfka.email/img/tx.jpg" alt="">
+          <img src="https://www.mlhh.cn/img/tx.jpg" alt="">
         </div>
 
         <div class="infoText">
@@ -163,7 +163,7 @@ export default {
           icon: 'icon-wodeboke',
           animate: '博客',
           color: '#fe8599',
-          href: 'https://www.xfka.email'
+          href: 'https://www.mlhh.cn'
         },
         {
           icon: 'icon-github',
